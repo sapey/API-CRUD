@@ -1,1 +1,2 @@
-nodejs-express-mongodb/app/config
+nodejs-express-mongodb/app/config/db.config.js
+nodejs-express-mongodb/node_modules
